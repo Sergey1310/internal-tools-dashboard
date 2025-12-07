@@ -1,5 +1,5 @@
-def main() -> None:
-    print("Hello, world!")
+def main():
+    print("internal-tools-dashboard: OK")
 
 
 if __name__ == "__main__":
